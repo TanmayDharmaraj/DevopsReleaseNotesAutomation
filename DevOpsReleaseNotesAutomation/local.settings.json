@@ -1,0 +1,12 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+        "PersonalAccessToken": "<your-permanent-access-token>",
+        "DevOpsUri": "<uri-of-devops-org>",
+        "DevOpsProjectName": "<project-name>",
+        "DevOpsWikiName": "<wiki-name>",
+        "DevOpsTeamName": "<team-name>"
+    }
+}
